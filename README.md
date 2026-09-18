@@ -1,3 +1,13 @@
+<!--
+config:
+  name: Victor Tovar
+  email: vatovar-2025b@corhuila.edu.com
+  program: Ingeniería de Sistemas
+  semester: 4
+  university: Corporación Universitaria del Huila - CORHUILA
+  repository: Naudi13
+-->
+
 # Hi there 👋
 
 I'm **Victor Tovar**, a Full Stack Developer with **7 years of experience**.
