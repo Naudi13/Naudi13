@@ -8,7 +8,7 @@ I'm **Victor Tovar**, a Full Stack Developer with **7 years of experience**.
 - 🌱 Also exploring Node.js and new tools in the JS ecosystem
 - 📫 Reach me at: victor50212@gmail.com
 - 🔗 GitHub: [@Naudi13](https://github.com/Naudi13)
-- 💼 LinkedIn: [your-profile]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/victor-alfonso-tovar-ramirez-692a66213/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8fT3bg%2BhQLC2keLHjtVhPQ%3D%3D))
+- 💼 LinkedIn: [victor-tovar-dev](www.linkedin.com/in/victor-tovar-dev)
 
 ## Main Stack
 
