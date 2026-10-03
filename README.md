@@ -1,4 +1,10 @@
 <!--
+CONFIG
+ FULL_NAME:  Victor Alfonso Tovar Ramirez
+GITHUB_USER: Naudi13
+-->
+
+<!--
 config:
   name: Victor Tovar
   email: vatovar-2025b@corhuila.edu.com
